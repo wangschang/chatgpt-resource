@@ -9,7 +9,10 @@ chatgpt 免费资源整理
 
 
 
-## openAI注册
+## OPENAI注册
+
+
+## midjourney注册和使用
 
 
 
