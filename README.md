@@ -9,7 +9,7 @@ chatgpt 免费资源整理和操作文档
 
   [Notion AI](notion/notion.md)
   
-# 2.www.steamship.com 
+# 2. steamship
    
    集成gpt4模型，有免费的使用次数
    [steamship](steamship/steamship.md)
