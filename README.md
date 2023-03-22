@@ -21,8 +21,16 @@ chatgpt 免费资源整理和操作文档
 ## OPENAI注册
     待完善
 
-## midjourney注册和使用
+## AI绘画
+
+# 1.midjourney注册和使用
     待完善
+    
+    prompt 样式关键词可以参考 [https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) 
+    
+#  2. 微软creator 无需翻墙直接可以用
+    [https://www.bing.com/create](https://www.bing.com/create) 
+      
 
 
 
