@@ -23,10 +23,9 @@ chatgpt 免费资源整理和操作文档
    [https://www.cursor.so/](https://www.cursor.so/)
 
 
-
 ### 4.poe.com
 
- 需要全局代理，可以注册注册使用
+ 需要全局代理，可以免费使用chat-gpt3 速度还可以
 
 [[Poe - Fast, Helpful AI Chat](https://poe.com/chatgpt)](https://poe.com/chatgpt)
 
