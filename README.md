@@ -26,7 +26,7 @@ chatgpt 免费资源整理和操作文档
 
 ## AI绘画
 
-###1.midjourney注册和使用
+### 1.midjourney注册和使用
    目前已经支持V5版本
     
    [midjourney](mj/mj.md)
@@ -34,12 +34,12 @@ chatgpt 免费资源整理和操作文档
     
    [MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) 
     
-###2.微软creator 无需翻墙直接可以免费用
+### 2.微软creator 无需翻墙直接可以免费用
    直接登录下面地址输入关键词即可，目前还不支持中文
       
    [www.bing.com/create](https://www.bing.com/create) 
    
-###3.https://firefly.adobe.com/
+### 3.https://firefly.adobe.com/
       目前只能加入waitlist
       
       
