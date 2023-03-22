@@ -22,6 +22,20 @@ chatgpt 免费资源整理和操作文档
 
    [https://www.cursor.so/](https://www.cursor.so/)
 
+
+
+### 4.poe.com
+
+ 需要全局代理，可以注册注册使用
+
+[[Poe - Fast, Helpful AI Chat](https://poe.com/chatgpt)](https://poe.com/chatgpt)
+
+注册后可以直接使用 https://poe.com/chatgpt
+
+### 
+
+### 
+
 ### OPENAI注册
 
     待完善
@@ -33,7 +47,6 @@ chatgpt 免费资源整理和操作文档
    目前已经支持V5版本
 
    [midjourney](mj/mj.md)
-    
 
 ### 2.微软creator 无需翻墙直接可以免费用
 
