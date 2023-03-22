@@ -27,11 +27,12 @@ chatgpt 免费资源整理和操作文档
     待完善
     
     prompt 样式关键词可以参考 
+    
     [MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) 
     
- #2. 微软creator 无需翻墙直接可以用
+#2. 微软creator 无需翻墙直接可以用
 
-    [https://www.bing.com/create](https://www.bing.com/create) 
+    [www.bing.com/create](https://www.bing.com/create) 
       
 
 
