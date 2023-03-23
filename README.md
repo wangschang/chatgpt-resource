@@ -42,7 +42,7 @@ chatgpt 免费资源整理和操作文档
    
       
 
-### 6. https://www.ftcl.site/
+### 6. https://www.ftcl.site/ 免费
  https://www.ftcl.site/  
 
 ### OPENAI注册
