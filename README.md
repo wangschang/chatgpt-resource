@@ -31,7 +31,16 @@ chatgpt 免费资源整理和操作文档
 
 注册后可以直接使用 https://poe.com/chatgpt
 
-### 
+
+### 5.lunabot chrome浏览器插件可以免费使用
+      
+   [https://producthunt.com/posts/lunabot](https://producthunt.com/posts/lunabot)
+   
+   或者直接点击
+   
+   https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag
+   
+      
 
 ### 
 
