@@ -72,10 +72,20 @@ chatgpt 免费资源整理和操作文档
       
  ## AI 会话关键词
  
- ### MidJourney关键词整理[https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
+ ### MidJourney关键词整理
+ [https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
  
  ### MidJourney 关键词中文对应关系 
  [https://atlassc.net/2023/03/24/stable-diffusion-prompt](https://atlassc.net/2023/03/24/stable-diffusion-prompt)
+ 
+ ### midjourney prompt builder
+ [https://promptomania.com/midjourney-prompt-builder/](https://promptomania.com/midjourney-prompt-builder/)
+ 
+ ### midjourney prompt helper
+ [https://midjourney-prompt-helper.netlify.app/](https://midjourney-prompt-helper.netlify.app/)
+ 
+ ### jrnylist
+ [https://www.jrnylist.com/](https://www.jrnylist.com/)
  
  
  
