@@ -70,7 +70,7 @@ chatgpt 免费资源整理和操作文档
 
       目前只能加入waitlist
       
- ## AI 会话关键词
+ ## AI 绘画 prompt 关键词 
  
  ### MidJourney关键词整理 6k+ stars
  [https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
