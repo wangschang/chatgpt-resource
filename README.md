@@ -72,23 +72,23 @@ chatgpt 免费资源整理和操作文档
       
  ## AI 绘画 prompt 关键词 
  
- ### MidJourney关键词整理 6k+ stars
+ ### 1.MidJourney关键词整理 6k+ stars
  [https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
  
- ### MidJourney 关键词中文对应关系 中英文
+ ### 2.MidJourney 关键词中文对应关系 中英文
  [https://atlassc.net/2023/03/24/stable-diffusion-prompt](https://atlassc.net/2023/03/24/stable-diffusion-prompt)
  
- ### midjourney prompt builder 英文
+ ### 3.midjourney prompt builder 英文
  [https://promptomania.com/midjourney-prompt-builder/](https://promptomania.com/midjourney-prompt-builder/)
  
- ### midjourney prompt helper 英文
+ ### 4.midjourney prompt helper 英文
  [https://midjourney-prompt-helper.netlify.app/](https://midjourney-prompt-helper.netlify.app/)
  
- ### jrnylist 英文
+ ### 5.jrnylist 英文
  [https://www.jrnylist.com/](https://www.jrnylist.com/)
  
  
- ### https://www.midlibrary.io/ 可视化比较好
+ ### 6.https://www.midlibrary.io/ 可视化比较好
  [https://www.midlibrary.io/](https://www.midlibrary.io/)
  
  
