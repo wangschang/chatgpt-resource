@@ -40,14 +40,11 @@ chatgpt 免费资源整理和操作文档
    
    https://chrome.google.com/webstore/detail/lunabot-chatgpt-on-any-we/jkeolmadidncndcbnajhaojepbolajag
    
-### 6.deflash.ai
-  
-   [deflash.ai](https://deflash.ai) 
 
-### 7. https://www.ftcl.site/ 免费
+### 6. https://www.ftcl.site/ 免费
  https://www.ftcl.site/  
 
-### 8.loop 微软出品的notionai竞品，集成chatgpt功能 可以免费使用
+### 7.loop 微软出品的notionai竞品，集成chatgpt功能 可以免费使用
   [https://loop.microsoft.com/](https://loop.microsoft.com/)
   
 ### OPENAI注册
