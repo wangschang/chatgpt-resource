@@ -46,7 +46,7 @@ chatgpt 免费资源整理和操作文档
 
 ### 7.loop 微软出品的notionai竞品，集成chatgpt功能 可以免费使用
   [https://loop.microsoft.com/](https://loop.microsoft.com/)
-  
+
 ### OPENAI注册
 
     待完善
@@ -69,7 +69,7 @@ chatgpt 免费资源整理和操作文档
 
       目前只能加入waitlist
       
- ## AI 绘画 prompt 关键词 
+ ## AI prompt 关键词 
  
  ### 1.MidJourney关键词整理 6k+ stars
  [https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference)
@@ -89,5 +89,9 @@ chatgpt 免费资源整理和操作文档
  
  ### 6.https://www.midlibrary.io/ 可视化比较好
  [https://www.midlibrary.io/](https://www.midlibrary.io/)
+ 
+ ### 7.Learning-Prompt 中文
+ 
+ [https://learningprompt.wiki/](https://learningprompt.wiki/)
  
  
