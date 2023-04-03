@@ -94,4 +94,6 @@ chatgpt 免费资源整理和操作文档
  
  [https://learningprompt.wiki/](https://learningprompt.wiki/)
  
+ ### 8.chatgpt中文调教
  
+ [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
