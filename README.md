@@ -69,6 +69,13 @@ chatgpt 免费资源整理和操作文档
 
       目前只能加入waitlist
       
+### 4.yodayo.com 平替midjourney 一键出图，操作更简单
+
+  [https://yodayo.com/text-to-image/](https://yodayo.com/text-to-image/)
+
+### 5. [https://kalos.art/discovery](https://kalos.art/discovery)  
+  
+      
  ## AI prompt 关键词 
  
  ### 1.MidJourney关键词整理 6k+ stars
@@ -97,3 +104,5 @@ chatgpt 免费资源整理和操作文档
  ### 8.chatgpt中文调教
  
  [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+ 
+ 
