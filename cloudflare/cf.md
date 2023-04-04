@@ -10,7 +10,7 @@
 
 ### 3. 打开页面 左侧输入附件的代码
 
- 代码来源：[https://github.com/barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy)
+ 代码来源：[https://github.com/barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy/blob/main/cloudflare-worker.js)
    ![avatar](images/code.png)
    并保存提交
 
@@ -27,12 +27,17 @@
 
    点继续 
 
-   到域名购买地方 设置ns
+   到域名购买地方 设置dns服务器
    阿里云为例：
    域名控制台--域名列表---选择具体的域名---管理---DNS修改
-   修改为
-   rita.ns.cloudflare.com
-   thaddeus.ns.cloudflare.com
+   删除老的修改成新的dns服务
+
+
+
+```
+rita.ns.cloudflare.com
+thaddeus.ns.cloudflare.com
+```
 
    等待域名生效，生效后能看到生效的标记
    ![avatar](images/valid.png) 
