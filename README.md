@@ -115,3 +115,7 @@ chatgpt 免费资源整理和操作文档
 ### 8.chatgpt中文调教
 
  [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+ 
+### 9.中文chatgpt文档汇总
+
+  [https://gitlab.com/awesomeai/awesome-chatgpt-zh](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
