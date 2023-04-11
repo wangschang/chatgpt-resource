@@ -119,3 +119,8 @@ chatgpt 免费资源整理和操作文档
 ### 9.中文chatgpt文档汇总
 
   [https://gitlab.com/awesomeai/awesome-chatgpt-zh](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
+  
+### 10.人工只能十年pdf
+
+   [ChatGPT_ppf](http://lipiji.com/slides/ChatGPT_ppf.pdf)
+  
