@@ -45,6 +45,10 @@ chatgpt 免费资源整理和操作文档
 ### 7.loop 微软出品的notionai竞品，集成chatgpt功能 可以免费使用
 
   [https://loop.microsoft.com/](https://loop.microsoft.com/)
+  
+### 8.汇总的平替chatgpt
+  
+   [https://zl49so8lbq.feishu.cn/wiki/wikcnMEVynrv6f4RAAJzoZUFpHe](https://zl49so8lbq.feishu.cn/wiki/wikcnMEVynrv6f4RAAJzoZUFpHe)
 
 ### 免费配置openai代理
 
