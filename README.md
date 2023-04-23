@@ -54,9 +54,13 @@ chatgpt 免费资源整理和操作文档
 
 [cloudflare配置openai代理](cloudflare/cf.md)
 
-### OPENAI注册
-
-    待完善
+### chatgpt4免费体验（一般都会限制次数）
+     
+     [https://chatmindai.cn 只能免费体验一次 ](https://chatmindai.cn)
+     
+     [https://chat.forefront.ai ](https://chat.forefront.ai)
+     
+     [https://poe.com/GPT-4 ](https://poe.com/GPT-4)
 
 ## 
 
