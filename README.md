@@ -60,7 +60,7 @@ chatgpt 免费资源整理和操作文档
    [https://chatmindai.cn 只能免费体验一次 ](https://chatmindai.cn)
     
      
-   [https://chat.forefront.ai ](https://chat.forefront.ai)
+   [https://chat.forefront.ai 可以体验多次 ](https://chat.forefront.ai)
     
      
    [https://poe.com/GPT-4 ](https://poe.com/GPT-4)
