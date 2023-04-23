@@ -132,3 +132,8 @@ chatgpt 免费资源整理和操作文档
 
    [ChatGPT_ppf](http://lipiji.com/slides/ChatGPT_ppf.pdf)
   
+### 11.本地机器执行 Stable Diffusion
+  
+   [本地机器使用Stable Diffusion](https://zl49so8lbq.feishu.cn/wiki/wikcn0mIZZ7tvQgBiygBNqjgYic)
+   
+   
