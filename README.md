@@ -139,8 +139,8 @@ chatgpt 免费资源整理和操作文档
   
    [本地机器使用Stable Diffusion](https://zl49so8lbq.feishu.cn/wiki/wikcn0mIZZ7tvQgBiygBNqjgYic)
    
-### 12 www.promptingguide.ai
+### 12. www.promptingguide.ai
     
-    [https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
+   [https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
     
     
