@@ -65,6 +65,9 @@ chatgpt 免费资源整理和操作文档
      
    [https://poe.com/GPT-4 ](https://poe.com/GPT-4)
 
+### 11.免费无需翻墙 huggingface gpt 
+   
+   [https://huggingface.co/chat/](https://huggingface.co/chat/) 
 ## 
 
 ## AI绘画
