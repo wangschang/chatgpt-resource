@@ -96,7 +96,7 @@ chatgpt 免费资源整理和操作文档
 
 ## 
 
-# AI prompt 关键词
+# AI/chatgpt prompt 关键词 相关文章
 
 ### 1.MidJourney关键词整理 6k+ stars
 
@@ -146,4 +146,12 @@ chatgpt 免费资源整理和操作文档
     
    [https://www.promptingguide.ai/zh](https://www.promptingguide.ai/zh)
     
-    
+### 13.how to write prompt for chatgpt
+
+   [https://jerryzou.com/posts/how-to-write-a-prompt-for-chatgpt/](https://jerryzou.com/posts/how-to-write-a-prompt-for-chatgpt/)
+   
+### 14.communicate-with-ai-tools-prompt-engineering
+
+   [how-to-communicate-with-ai-tools-prompt-engineering/](https://www.freecodecamp.org/news/how-to-communicate-with-ai-tools-prompt-engineering/)
+   
+
