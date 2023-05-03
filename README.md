@@ -154,4 +154,6 @@ chatgpt 免费资源整理和操作文档
 
    [how-to-communicate-with-ai-tools-prompt-engineering/](https://www.freecodecamp.org/news/how-to-communicate-with-ai-tools-prompt-engineering/)
    
-
+### 15. prompt-engineering-for-developers
+    
+    [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
