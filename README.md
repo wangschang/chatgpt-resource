@@ -157,3 +157,7 @@ chatgpt 免费资源整理和操作文档
 ### 15. prompt-engineering-for-developers
     
     [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+    
+### 16.10个有用的提示词
+     
+     [twitter https://twitter.com/AIWhispers4U/status/1658288935154651136 ](https://twitter.com/AIWhispers4U/status/1658288935154651136)
