@@ -68,6 +68,9 @@ chatgpt 免费资源整理和操作文档
 ### 11.免费无需翻墙 huggingface gpt 
    
    [https://huggingface.co/chat/](https://huggingface.co/chat/) 
+   
+### 12.chatgpt插件及使用指南
+    [插件及使用指南来自twitter](https://twitter.com/GPTDAOCN/status/1658495120495513602)
 ## 
 
 ## AI绘画
@@ -161,3 +164,5 @@ chatgpt 免费资源整理和操作文档
 ### 16.10个有用的提示词
      
      [twitter https://twitter.com/AIWhispers4U/status/1658288935154651136 ](https://twitter.com/AIWhispers4U/status/1658288935154651136)
+     
+     
