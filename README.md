@@ -71,6 +71,10 @@ chatgpt 免费资源整理和操作文档
    
 ### 12.chatgpt插件及使用指南
     [插件及使用指南来自twitter](https://twitter.com/GPTDAOCN/status/1658495120495513602)
+
+### 13.chatgpt api调用
+    [dify.ai](https://cloud.dify.ai/)
+    
 ## 
 
 ## AI绘画
