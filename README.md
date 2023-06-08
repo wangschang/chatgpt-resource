@@ -169,4 +169,6 @@ chatgpt 免费资源整理和操作文档
      
      [twitter https://twitter.com/AIWhispers4U/status/1658288935154651136 ](https://twitter.com/AIWhispers4U/status/1658288935154651136)
      
-     
+### 17.人工智能入门
+
+      [人工智能入门](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
