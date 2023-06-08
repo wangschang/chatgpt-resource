@@ -70,10 +70,12 @@ chatgpt 免费资源整理和操作文档
    [https://huggingface.co/chat/](https://huggingface.co/chat/) 
    
 ### 12.chatgpt插件及使用指南
-    [插件及使用指南来自twitter](https://twitter.com/GPTDAOCN/status/1658495120495513602)
+
+   [插件及使用指南来自twitter](https://twitter.com/GPTDAOCN/status/1658495120495513602)
 
 ### 13.chatgpt api调用
-    [dify.ai](https://cloud.dify.ai/)
+
+   [dify.ai](https://cloud.dify.ai/)
     
 ## 
 
@@ -163,12 +165,12 @@ chatgpt 免费资源整理和操作文档
    
 ### 15. prompt-engineering-for-developers
     
-    [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
+   [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers)
     
 ### 16.10个有用的提示词
      
-     [twitter https://twitter.com/AIWhispers4U/status/1658288935154651136 ](https://twitter.com/AIWhispers4U/status/1658288935154651136)
+   [twitter https://twitter.com/AIWhispers4U/status/1658288935154651136 ](https://twitter.com/AIWhispers4U/status/1658288935154651136)
      
 ### 17.人工智能入门
 
-      [人工智能入门](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+   [人工智能入门](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
