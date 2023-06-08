@@ -76,6 +76,10 @@ chatgpt 免费资源整理和操作文档
 ### 13.chatgpt api调用
 
    [dify.ai](https://cloud.dify.ai/)
+   
+### 14.免费chatgpt4
+
+   [https://chat.forefront.ai/](https://chat.forefront.ai/)
     
 ## 
 
