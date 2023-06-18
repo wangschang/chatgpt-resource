@@ -2,7 +2,7 @@
 
 chatgpt 免费资源整理和操作文档
 
-##免费/试用 chatgpt
+##免费/试用 chatgpt/ai助手
 
 ### 1.notion AI
 
@@ -61,9 +61,9 @@ chatgpt 免费资源整理和操作文档
     
      
    [https://chat.forefront.ai 可以体验多次 ](https://chat.forefront.ai)
-    
      
    [https://poe.com/GPT-4 ](https://poe.com/GPT-4)
+   
 
 ### 11.免费无需翻墙 huggingface gpt 
    
@@ -80,7 +80,12 @@ chatgpt 免费资源整理和操作文档
 ### 14.免费chatgpt4
 
    [https://chat.forefront.ai/](https://chat.forefront.ai/)
-    
+   
+### 15.chatmindai 国内可以直接用的chatgpt 3.5有一定的额度免费用
+
+   [https://beta.chatmindai.net/](https://beta.chatmindai.net/)
+
+
 ## 
 
 ## AI绘画
@@ -178,3 +183,26 @@ chatgpt 免费资源整理和操作文档
 ### 17.人工智能入门
 
    [人工智能入门](https://ywh1bkansf.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
+   
+   
+## 其他AI工具
+
+   1. http://Lovo.ai - AI语音生成器 
+
+   2. http://Trinka.ai - AI编辑和语法 
+
+   3. http://Wiseone.io - chatgpt小助手--浏览器插件
+
+   4. http://Durable.co - AI搭网站   
+
+   5. http://Saga.so/ai - AI创意助理   
+
+   6. http://Stockimg.ai - AI创建图像
+
+   7. http://Aivalley.ai - 最新的AI工具和提示词
+
+   8. http://Hoppycopy.co -10倍速写电子邮件  
+
+   9. http://ChatPDF.com - 窥视文档
+
+   10. http://Gamma.app - AI做PPT
