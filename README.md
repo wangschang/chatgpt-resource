@@ -85,6 +85,9 @@ chatgpt 免费资源整理和操作文档
 
    [https://beta.chatmindai.net/](https://beta.chatmindai.net/)
 
+### 16.https://labs.perplexity.ai/ 需要翻墙
+
+   [https://labs.perplexity.ai/](https://labs.perplexity.ai/)
 
 ## 
 
