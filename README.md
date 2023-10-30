@@ -89,7 +89,8 @@ chatgpt 免费资源整理和操作文档
 
    [https://labs.perplexity.ai/](https://labs.perplexity.ai/)
 
-## 
+## 17.https://airoom.chat/  chatgpt聊天目前免费
+
 
 ## AI绘画
 
