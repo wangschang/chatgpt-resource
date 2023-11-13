@@ -91,6 +91,8 @@ chatgpt 免费资源整理和操作文档
 
 ## 17.https://airoom.chat/  chatgpt聊天目前免费
 
+## 18. https://www.yeschat.ai 有免费额度可用
+
 
 ## AI绘画
 
