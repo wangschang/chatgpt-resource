@@ -1,8 +1,8 @@
-# chatgpt-resource
+# chatgpt & ai resource
 
 chatgpt 免费资源整理和操作文档
 
-##免费/试用 chatgpt/ai助手
+##免费/试用 chatgpt/ai助手/免翻墙
 
 ### 1.notion AI
 
