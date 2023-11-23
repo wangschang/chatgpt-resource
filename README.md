@@ -95,6 +95,11 @@ chatgpt 免费资源整理和操作文档
 
 ## 19. 程序员专用ai搜索   
    [devv.ai](https://devv.ai)
+
+## 20.kimi 国内可用
+
+   [https://kimi.moonshot.cn/](https://kimi.moonshot.cn/) 
+
    
 ## AI绘画
 
