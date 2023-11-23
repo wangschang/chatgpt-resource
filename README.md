@@ -93,7 +93,9 @@ chatgpt 免费资源整理和操作文档
 
 ## 18. https://www.yeschat.ai 有免费额度可用
 
-
+## 19. 程序员专用ai搜索   
+   [devv.ai](https://devv.ai)
+   
 ## AI绘画
 
 ### 1.midjourney注册和使用
