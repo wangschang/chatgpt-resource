@@ -89,14 +89,15 @@ chatgpt 免费资源整理和操作文档
 
    [https://labs.perplexity.ai/](https://labs.perplexity.ai/)
 
-## 17.https://airoom.chat/  chatgpt聊天目前免费
+### 17.https://airoom.chat/  chatgpt聊天目前免费
 
-## 18. https://www.yeschat.ai 有免费额度可用
+### 18. https://www.yeschat.ai 有免费额度可用
 
-## 19. 程序员专用ai搜索   
+### 19. 程序员专用ai搜索   
+   
    [devv.ai](https://devv.ai)
 
-## 20.kimi 国内可用
+### 20.kimi 国内可用
 
    [https://kimi.moonshot.cn/](https://kimi.moonshot.cn/) 
 
@@ -124,6 +125,12 @@ chatgpt 免费资源整理和操作文档
   [https://yodayo.com/text-to-image/](https://yodayo.com/text-to-image/)
 
 ### 5. [https://kalos.art/discovery](https://kalos.art/discovery)
+
+
+### 6.文字和简单绘画生成图片
+
+    [https://www.fal.ai/dynamic](https://www.fal.ai/dynamic)
+
 
 ## 
 
