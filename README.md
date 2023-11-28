@@ -227,7 +227,9 @@ chatgpt 免费资源整理和操作文档
 
    10. http://Gamma.app - AI做PPT
        
-   11.https://excalidraw.com  文本到图标功能   
+   11. https://excalidraw.com  文本到图标功能
+       
+   13. https://mylens.ai/  生成时间线的小工具
 
 ## 备用梯子
 
