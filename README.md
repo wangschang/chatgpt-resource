@@ -226,6 +226,8 @@ chatgpt 免费资源整理和操作文档
    9. http://ChatPDF.com - 窥视文档
 
    10. http://Gamma.app - AI做PPT
+       
+   11.https://excalidraw.com  文本到图标功能   
 
 ## 备用梯子
 
