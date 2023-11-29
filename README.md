@@ -231,6 +231,8 @@ chatgpt 免费资源整理和操作文档
        
    13. https://mylens.ai/  生成时间线的小工具
 
+   14. https://pika.art 通过文字生成视频
+
 ## 备用梯子
 
    [xmrth](https://xmrth.cc/auth/register?code=f04f)
