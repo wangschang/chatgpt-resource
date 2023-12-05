@@ -101,7 +101,10 @@ chatgpt 免费资源整理和操作文档
 
    [https://kimi.moonshot.cn/](https://kimi.moonshot.cn/) 
 
-   
+### 21.https://www.perplexity.ai/ 有免费额度
+
+    [https://www.perplexity.ai/](https://www.perplexity.ai/)
+
 ## AI绘画
 
 ### 1.midjourney注册和使用
