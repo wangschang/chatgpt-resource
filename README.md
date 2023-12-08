@@ -105,6 +105,10 @@ chatgpt 免费资源整理和操作文档
 
     [https://www.perplexity.ai/](https://www.perplexity.ai/)
 
+### 22.google bard 也是很强大
+
+    [https://bard.google.com/](https://bard.google.com/)
+
 ## AI绘画
 
 ### 1.midjourney注册和使用
