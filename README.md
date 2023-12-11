@@ -138,6 +138,14 @@ chatgpt 免费资源整理和操作文档
 
     [https://www.fal.ai/dynamic](https://www.fal.ai/dynamic)
 
+### 7.meta 文生图
+
+     [https://imagine.meta.com/](https://imagine.meta.com/)
+
+### 8.google ai 笔记
+
+    [https://notebooklm.google.com](https://notebooklm.google.com)
+    
 
 ## 
 
