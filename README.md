@@ -113,6 +113,10 @@ chatgpt 免费资源整理和操作文档
 
     [https://copilot.microsoft.com/](https://copilot.microsoft.com/)
 
+### 24. https://chat.mistral.ai/chat  后起之秀据说已经和微软合作
+
+      [https://chat.mistral.ai/chat](https://chat.mistral.ai/chat)
+
 ## AI绘画
 
 ### 1.midjourney注册和使用
