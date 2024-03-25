@@ -117,6 +117,10 @@ chatgpt 免费资源整理和操作文档
 
       [https://chat.mistral.ai/chat](https://chat.mistral.ai/chat)
 
+### 25. https://chat.deepseek.com/ 国内不用翻墙可以内测
+      
+      [https://chat.deepseek.com/](https://chat.deepseek.com/)
+
 ## AI绘画
 
 ### 1.midjourney注册和使用
