@@ -162,6 +162,10 @@ chatgpt 免费资源整理和操作文档
 
     [https://stablediffusionweb.com/](https://stablediffusionweb.com/)
 
+### 10.runay
+
+    [https://runwayml.com](https://runwayml.com)
+
 ## 
 
 # AI/chatgpt prompt 关键词 相关文章
