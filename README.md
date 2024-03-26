@@ -157,7 +157,10 @@ chatgpt 免费资源整理和操作文档
 ### 8.google ai 笔记
 
     [https://notebooklm.google.com](https://notebooklm.google.com)
-    
+
+### 9.sd 文生图片
+
+    [https://stablediffusionweb.com/](https://stablediffusionweb.com/)
 
 ## 
 
